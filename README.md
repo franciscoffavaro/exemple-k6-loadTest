@@ -8,7 +8,7 @@ Quais os objetivos finais dos testes ?
 
 ## Teste de Carga
 - Saber capacidade máxima da aplicação e utilizar essa carga durante uma alta carga prolongada de aplicações, lembrando que o limite máximo não deve ser excedido. 
--0 Numerbo baixo de usuários e aumenta gradativamente até atingir um ponto abaixo do limite máximo. 
+- Numero baixo de usuários e aumenta gradativamente até atingir um ponto abaixo do limite máximo. 
 
 ## Teste de Stress
 - Tempo superior ao teste de carga;
@@ -53,4 +53,3 @@ Quais os objetivos finais dos testes ?
 
 ## Thresholds
 - Permite paralisar o teste com base em validações feitas durante a execução
-- 
